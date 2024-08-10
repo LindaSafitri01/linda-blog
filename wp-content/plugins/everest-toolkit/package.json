@@ -1,0 +1,20 @@
+{
+  "name": "everest-toolkit",
+  "version": "1.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm install",
+    "_zip": "cd ../ && dir-archiver --src ./everest-toolkit --dest ./everest-toolkit/everest-toolkit.zip --exclude everest-toolkit/.git everest-toolkit/node_modules everest-toolkit/everest-toolkit.zip everest-toolkit/.gitignore everest-toolkit/composer.json everest-toolkit/composer.lock everest-toolkit/package-lock.json everest-toolkit/package.json everest-toolkit/README.md",
+    "build": "npm run _zip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@n1tech:everestthemes/everest-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dir-archiver": "^1.2.0"
+  }
+}

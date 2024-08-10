@@ -1,0 +1,22 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/2223e/kms4a/linda
+Data file = C:\xampp\htdocs\2223e\kms4a\linda/wp-content/uploads/2023/05/demo-content-import-file_2023-05-14__14-29-13.xml
+Widget file = C:\xampp\htdocs\2223e\kms4a\linda/wp-content/uploads/2023/05/demo-widgets-import-file_2023-05-14__14-29-13.json
+Customizer file = C:\xampp\htdocs\2223e\kms4a\linda/wp-content/uploads/2023/05/demo-customizer-import-file_2023-05-14__14-29-13.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "5ce65541ee376" (Media)
+
+
+------
+Completed AJAX call number: 3
+
